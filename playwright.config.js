@@ -3,11 +3,11 @@ const { defineConfig } = require('@playwright/test')
 module.exports = defineConfig({
   testDir: './e2e-tests',
   use: {
-    baseURL: 'http://localhost:5000',
+    baseURL: 'http://localhost:5001',
   },
   webServer: {
     command: 'npm run start-prod',
-    url: 'http://localhost:5000',
+    url: 'http://localhost:5001',
     reuseExistingServer: true,
   },
 })
