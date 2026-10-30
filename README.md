@@ -14,3 +14,7 @@ Start by running `npm install` inside the project folder
 
 Done with the deploymet
 (https://part11-di29.onrender.com)
+
+
+Link for my bloglistApp
+https://part11-bloglist-cicd-1.onrender.com/
